@@ -1,4 +1,4 @@
-# ULB-Darmstadt-Telegram-Bot-with-re
+# ULB-Darmstadt-Telegram-Bot-with-re-and-xml
 With this Bot it is possible to search media from the ULB-Darmstadt on Telegram. In this version, xml is used primarily. But in exceptional cases also regex.
 
 ## Requirements
